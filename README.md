@@ -55,7 +55,7 @@ $ cd ~/
 $ sudo chown -R username:username .vim
 ```
 
-Launch **vim** and run **:PluginInstall**  
+Launch **vim** and run **:PlugInstall**  
 When everything is installed, write `:q`.  
 
 #### 4) Add Plugin
